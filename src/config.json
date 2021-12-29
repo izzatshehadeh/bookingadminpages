@@ -1,5 +1,5 @@
 {
-    "SERVER_URL": "http://localhost:3344/",
-   "SERVER_URLs": "https://inl-booking.herokuapp.com/"
+    "SERVER_URL2": "http://localhost:3344/",
+   "SERVER_URL": "https://inl-booking.herokuapp.com/"
   
   }
